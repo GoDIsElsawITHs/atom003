@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "atom001:toggle"
   },
-  "repository": "https://github.com/atom/atom001",
+  "repository": "https://github.com/GoDIsElsawITHs/atom001",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
